@@ -1,0 +1,7 @@
+2025-08-18 09:24:51,232 [INFO] Starting Folder Monitor
+2025-08-18 09:24:51,234 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 09:24:53,165 [INFO] Email sent successfully.
+2025-08-18 09:24:53,167 [INFO] Moved: C:\FolderMonitor\inbox\hgygygy.bmp -> C:\FolderMonitor\backup\hgygygy.bmp
+2025-08-18 09:24:53,168 [INFO] Done.
+FolderMonitor is running... checking for new files.
+FolderMonitor finished. You can close this window.

@@ -1,0 +1,232 @@
+2025-08-15 09:01:41,051 [INFO] Starting Folder Monitor
+2025-08-15 09:01:41,053 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 09:01:43,357 [INFO] Email sent successfully.
+2025-08-15 09:01:43,361 [INFO] Moved: C:\KioskDrop\inbox\erere.bmp -> C:\KioskDrop\backup\erere.bmp
+2025-08-15 09:01:43,373 [INFO] Done.
+2025-08-15 09:54:36,810 [INFO] Starting Folder Monitor
+2025-08-15 09:54:36,822 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 09:54:39,041 [INFO] Email sent successfully.
+2025-08-15 09:54:39,043 [INFO] Moved: C:\KioskDrop\inbox\New Bitmap image.bmp -> C:\KioskDrop\backup\New Bitmap image.bmp
+2025-08-15 09:54:39,053 [INFO] Done.
+2025-08-15 10:15:23,241 [INFO] Starting Folder Monitor
+2025-08-15 10:15:23,256 [INFO] No new files found.
+2025-08-15 10:20:11,185 [INFO] Starting Folder Monitor
+2025-08-15 10:20:11,194 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 10:20:13,277 [INFO] Email sent successfully.
+2025-08-15 10:20:13,279 [INFO] Moved: C:\KioskDrop\inbox\wwwww.bmp -> C:\KioskDrop\backup\wwwww.bmp
+2025-08-15 10:20:13,287 [INFO] Done.
+2025-08-15 10:30:14,255 [INFO] Starting Folder Monitor
+2025-08-15 10:30:14,266 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 10:30:16,135 [INFO] Email sent successfully.
+2025-08-15 10:30:16,138 [INFO] Moved: C:\KioskDrop\inbox\qweqweqw.bmp -> C:\KioskDrop\backup\qweqweqw.bmp
+2025-08-15 10:30:16,147 [INFO] Done.
+2025-08-15 10:31:25,559 [INFO] Starting Folder Monitor
+2025-08-15 10:31:25,563 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 10:31:26,527 [INFO] Email sent successfully.
+2025-08-15 10:31:26,564 [INFO] Moved: C:\KioskDrop\inbox\eqweqwewq.bmp -> C:\KioskDrop\backup\eqweqwewq.bmp
+2025-08-15 10:31:26,599 [INFO] Done.
+2025-08-15 10:56:40,648 [INFO] Starting Folder Monitor
+2025-08-15 10:56:40,659 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 10:56:42,278 [ERROR] Email send failed: (503, b'5.5.1 RCPT first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. ffacd0b85a97d-3bb64664171sm1405961f8f.10 - gsmtp')
+2025-08-15 10:57:42,205 [INFO] Starting Folder Monitor
+2025-08-15 10:57:42,207 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 10:57:43,741 [ERROR] Email send failed: (503, b'5.5.1 RCPT first. A mail transaction protocol command was issued out of\n5.5.1 sequence. For more information, go to\n5.5.1  https://support.google.com/a/answer/3221692 and review RFC 5321\n5.5.1 specifications. ffacd0b85a97d-3bb64758d1csm1402973f8f.8 - gsmtp')
+2025-08-15 10:59:04,768 [INFO] Starting Folder Monitor
+2025-08-15 10:59:04,769 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 10:59:06,622 [INFO] Email sent successfully.
+2025-08-15 10:59:06,625 [INFO] Moved: C:\KioskDrop\inbox\ewrwerwer.bmp -> C:\KioskDrop\backup\ewrwerwer.bmp
+2025-08-15 10:59:06,635 [INFO] Done.
+2025-08-15 10:59:58,060 [INFO] Starting Folder Monitor
+2025-08-15 10:59:58,070 [INFO] No new files found.
+2025-08-15 11:00:22,169 [INFO] Starting Folder Monitor
+2025-08-15 11:00:22,179 [INFO] No new files found.
+2025-08-15 11:00:35,571 [INFO] Starting Folder Monitor
+2025-08-15 11:00:35,580 [INFO] No new files found.
+2025-08-15 11:02:39,367 [INFO] Starting Folder Monitor
+2025-08-15 11:02:39,379 [INFO] No new files found.
+2025-08-15 11:04:05,695 [INFO] Starting Folder Monitor
+2025-08-15 11:04:05,704 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 11:04:07,372 [INFO] Email sent successfully.
+2025-08-15 11:04:07,375 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Word Document.docx -> C:\KioskDrop\backup\New Microsoft Word Document.docx
+2025-08-15 11:04:07,385 [INFO] Done.
+2025-08-15 11:14:37,723 [INFO] Starting Folder Monitor
+2025-08-15 11:14:37,735 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-15 11:14:39,743 [INFO] Email sent successfully.
+2025-08-15 11:14:39,747 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Publisher Document.pub -> C:\KioskDrop\backup\2025-08-15\New Microsoft Publisher Document.pub
+2025-08-15 11:14:39,750 [INFO] Done.
+2025-08-15 11:15:05,857 [INFO] Starting Folder Monitor
+2025-08-15 11:15:05,867 [INFO] No new files found.
+2025-08-15 11:15:29,951 [INFO] Starting Folder Monitor
+2025-08-15 11:15:29,962 [INFO] No new files found.
+2025-08-15 11:16:18,940 [INFO] Starting Folder Monitor
+2025-08-15 11:16:18,951 [INFO] No new files found.
+2025-08-15 11:24:10,980 [INFO] Starting Folder Monitor
+2025-08-15 11:24:10,992 [INFO] No new files found.
+2025-08-15 11:25:16,809 [INFO] Starting Folder Monitor
+2025-08-15 11:25:16,823 [INFO] No new files found.
+2025-08-15 11:25:52,456 [INFO] Starting Folder Monitor
+2025-08-15 11:25:52,468 [INFO] No new files found.
+2025-08-15 11:26:52,163 [INFO] Starting Folder Monitor
+2025-08-15 11:26:52,175 [INFO] No new files found.
+2025-08-15 11:29:52,381 [INFO] Starting Folder Monitor
+2025-08-15 11:29:52,392 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 11:29:54,220 [INFO] Email sent successfully.
+2025-08-15 11:29:54,223 [INFO] Moved: C:\KioskDrop\inbox\New Bitmap image (2).bmp -> C:\KioskDrop\backup\New Bitmap image (2).bmp
+2025-08-15 11:29:54,234 [INFO] Done.
+2025-08-15 11:37:12,308 [INFO] Starting Folder Monitor
+2025-08-15 11:37:12,316 [INFO] Found 1 new file(s), total 0.01 MB
+2025-08-15 11:37:14,303 [INFO] Email sent successfully.
+2025-08-15 11:37:14,307 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Excel Worksheet.xlsx -> C:\KioskDrop\backup\New Microsoft Excel Worksheet.xlsx
+2025-08-15 11:37:14,314 [INFO] Done.
+2025-08-15 11:44:42,227 [INFO] Starting Folder Monitor
+2025-08-15 11:44:42,237 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-15 11:44:44,318 [INFO] Email sent successfully.
+2025-08-15 11:44:44,320 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Publisher Document.pub -> C:\KioskDrop\backup\New Microsoft Publisher Document.pub
+2025-08-15 11:44:44,330 [INFO] Done.
+2025-08-15 11:46:26,700 [INFO] Starting Folder Monitor
+2025-08-15 11:46:26,711 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-15 11:46:28,673 [INFO] Email sent successfully.
+2025-08-15 11:46:28,676 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Publisher Document.pub -> C:\KioskDrop\backup\New Microsoft Publisher Document_20250815_114628.pub
+2025-08-15 11:46:28,683 [INFO] Done.
+2025-08-15 12:37:41,835 [INFO] Starting Folder Monitor
+2025-08-15 12:37:41,844 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-15 12:37:44,071 [INFO] Email sent successfully.
+2025-08-15 12:37:44,074 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Publisher Document.pub -> C:\KioskDrop\backup\New Microsoft Publisher Document_20250815_123744.pub
+2025-08-15 12:37:44,075 [INFO] Done.
+2025-08-15 12:38:36,527 [INFO] Starting Folder Monitor
+2025-08-15 12:38:36,528 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 12:38:38,124 [INFO] Email sent successfully.
+2025-08-15 12:38:38,126 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Word Document.docx -> C:\KioskDrop\backup\New Microsoft Word Document.docx
+2025-08-15 12:38:38,127 [INFO] Done.
+2025-08-15 12:50:28,347 [INFO] Starting Folder Monitor
+2025-08-15 12:50:28,349 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-15 12:50:30,345 [INFO] Email sent successfully.
+2025-08-15 12:50:30,348 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Publisher Document.pub -> C:\KioskDrop\backup\New Microsoft Publisher Document_20250815_125030.pub
+2025-08-15 12:50:30,349 [INFO] Done.
+2025-08-15 12:53:07,231 [INFO] Starting Folder Monitor
+2025-08-15 12:53:07,233 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 12:53:08,951 [INFO] Email sent successfully.
+2025-08-15 12:53:08,954 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Word Document.docx -> C:\KioskDrop\backup\New Microsoft Word Document_20250815_125308.docx
+2025-08-15 12:53:08,956 [INFO] Done.
+2025-08-15 14:37:22,605 [INFO] Starting Folder Monitor
+2025-08-15 14:37:22,606 [INFO] No new files found.
+2025-08-15 14:37:34,771 [INFO] Starting Folder Monitor
+2025-08-15 14:37:34,772 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-15 14:37:36,816 [INFO] Email sent successfully.
+2025-08-15 14:37:36,819 [INFO] Moved: C:\KioskDrop\inbox\New Microsoft Publisher Document.pub -> C:\KioskDrop\backup\New Microsoft Publisher Document_20250815_143736.pub
+2025-08-15 14:37:36,821 [INFO] Done.
+2025-08-15 14:48:50,056 [INFO] Starting Folder Monitor
+2025-08-15 14:48:50,057 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 14:48:51,781 [INFO] Email sent successfully.
+2025-08-15 14:48:51,782 [INFO] Moved: C:\KioskDrop\inbox\New Bitmap image.bmp -> C:\KioskDrop\backup\New Bitmap image.bmp
+2025-08-15 14:48:51,783 [INFO] Done.
+2025-08-15 15:08:05,578 [INFO] Starting Folder Monitor
+2025-08-15 15:08:05,579 [INFO] No new files found.
+2025-08-15 15:09:11,417 [INFO] Starting Folder Monitor
+2025-08-15 15:09:11,418 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 15:09:13,246 [INFO] Email sent successfully.
+2025-08-15 15:09:13,249 [INFO] Moved: C:\FolderMonitor\inbox\New Bitmap image.bmp -> C:\FolderMonitor\backup\New Bitmap image_20250815_150913.bmp
+2025-08-15 15:09:13,251 [INFO] Done.
+2025-08-15 15:19:35,896 [INFO] Starting Folder Monitor
+2025-08-15 15:19:35,898 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-15 15:19:37,679 [INFO] Email sent successfully.
+2025-08-15 15:19:37,682 [INFO] Moved: C:\FolderMonitor\inbox\New Bitmap image.bmp -> C:\FolderMonitor\backup\New Bitmap image_20250815_151937.bmp
+2025-08-15 15:19:37,685 [INFO] Done.
+2025-08-15 15:59:36,893 [INFO] Starting Folder Monitor
+2025-08-15 15:59:36,895 [INFO] Found 1 new file(s), total 0.01 MB
+2025-08-15 15:59:38,955 [INFO] Email sent successfully.
+2025-08-15 15:59:38,958 [INFO] Moved: C:\FolderMonitor\inbox\New Microsoft Excel Worksheet.xlsx -> C:\FolderMonitor\backup\New Microsoft Excel Worksheet.xlsx
+2025-08-15 15:59:38,959 [INFO] Done.
+2025-08-18 08:03:09,736 [INFO] Starting Folder Monitor
+2025-08-18 08:03:09,751 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-18 08:03:13,435 [INFO] Email sent successfully.
+2025-08-18 08:03:13,438 [INFO] Moved: C:\FolderMonitor\inbox\New Microsoft Publisher Document.pub -> C:\FolderMonitor\backup\New Microsoft Publisher Document.pub
+2025-08-18 08:03:13,441 [INFO] Done.
+2025-08-18 09:21:20,940 [INFO] Starting Folder Monitor
+2025-08-18 09:21:20,942 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 09:21:23,126 [INFO] Email sent successfully.
+2025-08-18 09:21:23,129 [INFO] Moved: C:\FolderMonitor\inbox\wqeqweqw.bmp -> C:\FolderMonitor\backup\wqeqweqw.bmp
+2025-08-18 09:21:23,131 [INFO] Done.
+2025-08-18 09:24:51,232 [INFO] Starting Folder Monitor
+2025-08-18 09:24:51,234 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 09:24:53,165 [INFO] Email sent successfully.
+2025-08-18 09:24:53,167 [INFO] Moved: C:\FolderMonitor\inbox\hgygygy.bmp -> C:\FolderMonitor\backup\hgygygy.bmp
+2025-08-18 09:24:53,168 [INFO] Done.
+2025-08-18 09:49:06,949 [INFO] Starting Folder Monitor
+2025-08-18 09:49:06,951 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 09:49:09,410 [INFO] Email sent successfully.
+2025-08-18 09:49:09,412 [INFO] Moved: C:\FolderMonitor\inbox\fefesfsef.bmp -> C:\FolderMonitor\backup\fefesfsef.bmp
+2025-08-18 09:49:09,414 [INFO] Done.
+2025-08-18 09:57:52,379 [INFO] Starting Folder Monitor
+2025-08-18 09:57:52,381 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 09:57:54,490 [INFO] Email sent successfully.
+2025-08-18 09:57:54,492 [INFO] Moved: C:\FolderMonitor\inbox\weweeee.bmp -> C:\FolderMonitor\backup\weweeee.bmp
+2025-08-18 09:57:54,494 [INFO] Done.
+2025-08-18 09:58:39,200 [INFO] Starting Folder Monitor
+2025-08-18 09:58:39,202 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 09:58:41,099 [INFO] Email sent successfully.
+2025-08-18 09:58:41,102 [INFO] Moved: C:\FolderMonitor\inbox\ewrwerwe.bmp -> C:\FolderMonitor\backup\ewrwerwe.bmp
+2025-08-18 09:58:41,104 [INFO] Done.
+2025-08-18 10:03:25,114 [INFO] Starting Folder Monitor
+2025-08-18 10:03:25,115 [INFO] No new files found.
+2025-08-18 10:17:31,701 [INFO] Starting Folder Monitor
+2025-08-18 10:17:31,704 [INFO] Found 1 new file(s), total 0.06 MB
+2025-08-18 10:17:34,016 [INFO] Email sent successfully.
+2025-08-18 10:17:34,019 [INFO] Moved: C:\FolderMonitor\inbox\New Microsoft Publisher Document.pub -> C:\FolderMonitor\backup\New Microsoft Publisher Document_20250818_101734.pub
+2025-08-18 10:17:34,021 [INFO] Done.
+2025-08-18 10:28:42,689 [INFO] Starting Folder Monitor
+2025-08-18 10:28:42,691 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:28:44,593 [INFO] Email sent successfully.
+2025-08-18 10:28:44,595 [INFO] Moved: C:\FolderMonitor\inbox\ff.bmp -> C:\FolderMonitor\backup\ff.bmp
+2025-08-18 10:28:44,597 [INFO] Done.
+2025-08-18 10:30:02,845 [INFO] Starting Folder Monitor
+2025-08-18 10:30:02,847 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:30:04,600 [INFO] Email sent successfully.
+2025-08-18 10:30:04,602 [INFO] Moved: C:\FolderMonitor\inbox\ererere.bmp -> C:\FolderMonitor\backup\ererere.bmp
+2025-08-18 10:30:04,603 [INFO] Done.
+2025-08-18 10:32:02,832 [INFO] Starting Folder Monitor
+2025-08-18 10:32:02,834 [INFO] No new files found.
+2025-08-18 10:34:02,834 [INFO] Starting Folder Monitor
+2025-08-18 10:34:02,836 [INFO] No new files found.
+2025-08-18 10:36:02,840 [INFO] Starting Folder Monitor
+2025-08-18 10:36:02,841 [INFO] No new files found.
+2025-08-18 10:38:02,823 [INFO] Starting Folder Monitor
+2025-08-18 10:38:02,825 [INFO] No new files found.
+2025-08-18 10:40:02,897 [INFO] Starting Folder Monitor
+2025-08-18 10:40:02,898 [INFO] No new files found.
+2025-08-18 10:41:59,416 [INFO] Starting Folder Monitor
+2025-08-18 10:41:59,418 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:42:01,181 [INFO] Email sent successfully.
+2025-08-18 10:42:01,182 [INFO] Moved: C:\FolderMonitor\inbox\eeee.bmp -> C:\FolderMonitor\backup\eeee.bmp
+2025-08-18 10:42:01,183 [INFO] Done.
+2025-08-18 10:43:02,445 [INFO] Starting Folder Monitor
+2025-08-18 10:43:02,446 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:43:04,130 [INFO] Email sent successfully.
+2025-08-18 10:43:04,132 [INFO] Moved: C:\FolderMonitor\inbox\rerere.bmp -> C:\FolderMonitor\backup\rerere.bmp
+2025-08-18 10:43:04,133 [INFO] Done.
+2025-08-18 10:48:18,880 [INFO] Starting Folder Monitor
+2025-08-18 10:48:18,881 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:48:20,653 [INFO] Email sent successfully.
+2025-08-18 10:48:20,656 [INFO] Moved: C:\FolderMonitor\inbox\eeee.bmp -> C:\FolderMonitor\backup\eeee_20250818_104820.bmp
+2025-08-18 10:48:20,659 [INFO] Done.
+2025-08-18 10:54:51,852 [INFO] Starting Folder Monitor
+2025-08-18 10:54:51,854 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:54:53,986 [INFO] Email sent successfully.
+2025-08-18 10:54:53,989 [INFO] Moved: C:\FolderMonitor\inbox\eeeeeeee.bmp -> C:\FolderMonitor\backup\eeeeeeee.bmp
+2025-08-18 10:54:53,992 [INFO] Done.
+2025-08-18 10:56:03,162 [INFO] Starting Folder Monitor
+2025-08-18 10:56:03,164 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:56:05,670 [INFO] Email sent successfully.
+2025-08-18 10:56:05,674 [INFO] Moved: C:\FolderMonitor\inbox\eeeeeewe.bmp -> C:\FolderMonitor\backup\eeeeeewe.bmp
+2025-08-18 10:56:05,675 [INFO] Done.
+2025-08-18 10:58:05,291 [INFO] Starting Folder Monitor
+2025-08-18 10:58:05,292 [INFO] Found 1 new file(s), total 0.0 MB
+2025-08-18 10:58:07,451 [INFO] Email sent successfully.
+2025-08-18 10:58:07,454 [INFO] Moved: C:\FolderMonitor\inbox\qw.bmp -> C:\FolderMonitor\backup\qw.bmp
+2025-08-18 10:58:07,457 [INFO] Done.
+2025-08-18 11:00:02,304 [INFO] Starting Folder Monitor
+2025-08-18 11:00:02,306 [INFO] Found 2 new file(s), total 0.0 MB
+2025-08-18 11:00:04,280 [INFO] Email sent successfully.
+2025-08-18 11:00:04,282 [INFO] Moved: C:\FolderMonitor\inbox\eeeeewq.bmp -> C:\FolderMonitor\backup\eeeeewq.bmp
+2025-08-18 11:00:04,284 [INFO] Moved: C:\FolderMonitor\inbox\eqeqw.bmp -> C:\FolderMonitor\backup\eqeqw.bmp
+2025-08-18 11:00:04,286 [INFO] Done.
